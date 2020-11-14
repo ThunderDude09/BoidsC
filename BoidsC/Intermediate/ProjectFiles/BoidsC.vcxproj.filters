@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BoidsC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E7BA1B3D-7E8B-4012-B2A7-5EF8825882C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BoidsC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BoidsCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E915192D-0453-4646-A98B-E9494DF7F058}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BoidsC">
+      <UniqueIdentifier>{013CBB98-330F-4075-885B-3D1EC0541568}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BoidsC\BoidsC.Build.cs">
+      <Filter>Source\BoidsC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BoidsC\BoidsC.cpp">
+      <Filter>Source\BoidsC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidsC\BoidsC.h">
+      <Filter>Source\BoidsC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidsC\BoidsCCharacter.cpp">
+      <Filter>Source\BoidsC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidsC\BoidsCCharacter.h">
+      <Filter>Source\BoidsC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidsC\BoidsCGameMode.cpp">
+      <Filter>Source\BoidsC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidsC\BoidsCGameMode.h">
+      <Filter>Source\BoidsC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BoidsC\BoidsCPlayerController.cpp">
+      <Filter>Source\BoidsC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BoidsC\BoidsCPlayerController.h">
+      <Filter>Source\BoidsC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

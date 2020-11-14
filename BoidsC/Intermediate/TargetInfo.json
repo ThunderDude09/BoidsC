@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BoidsC",
+			"Path": "C:\\Users\\Brayden\\Documents\\unreal\\Flocking\\BoidsC\\BoidsC\\Source\\BoidsC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BoidsCEditor",
+			"Path": "C:\\Users\\Brayden\\Documents\\unreal\\Flocking\\BoidsC\\BoidsC\\Source\\BoidsCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

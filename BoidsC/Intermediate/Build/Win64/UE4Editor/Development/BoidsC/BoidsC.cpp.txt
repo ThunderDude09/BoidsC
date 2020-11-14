@@ -1,0 +1,2 @@
+C:\Users\Brayden\Documents\unreal\Flocking\BoidsC\BoidsC\Intermediate\Build\Win64\UE4Editor\Development\BoidsC\Definitions.BoidsC.h
+C:\Users\Brayden\Documents\unreal\Flocking\BoidsC\BoidsC\Source\BoidsC\BoidsC.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Brayden\\Documents\\unreal\\Flocking\\BoidsC\\BoidsC\\Source\\BoidsC\\BoidsC.Build.cs",
+		"C:\\Users\\Brayden\\Documents\\unreal\\Flocking\\BoidsC\\BoidsC\\Source\\BoidsC.Target.cs",
+		"C:\\Users\\Brayden\\Documents\\unreal\\Flocking\\BoidsC\\BoidsC\\Source\\BoidsCEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
